@@ -11,19 +11,19 @@
 
   * [2.2 Mutex 类](2.thread_sync/2.mutex.md)
 
-  * [2.3 并发线程数限制](2.thread_sync/3.Semaphore_SemaphoreSlim.md)
+  * [2.3 并发线程数限制](2.thread_sync/3.semaphore_semaphoreSlim.md)
 
-  * [2.4 自动线程通知](2.thread_sync/4.AutoRestEvent.md)
+  * [2.4 自动线程通知](2.thread_sync/4.autorestevent.md)
 
-  * [2.5 手动线程通知](2.thread_sync/5.ManualResetEvent.md)
+  * [2.5 手动线程通知](2.thread_sync/5.manualresetevent.md)
 
-  * [2.6 线程完成数](2.thread_sync/6.CountDownEvent.md)
+  * [2.6 线程完成数](2.thread_sync/6.countdownevent.md)
 
-    [2.7 并行协调](2.thread_sync/7.Barrier.md)
+    [2.7 并行协调](2.thread_sync/7.barrier.md)
 
-    [2.8 读写锁](2.thread_sync/8.ReaderWriterLock.md)
+    [2.8 读写锁](2.thread_sync/8.readerwriterlock.md)
 
-    [2.9 自旋](2.thread_sync/9.SpinWait.md)
+    [2.9 自旋](2.thread_sync/9.spinWait.md)
 
 * [3. 线程池](#)
 
