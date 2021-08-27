@@ -11,7 +11,7 @@
 
   * [2.2 Mutex 类](2.thread_sync/2.mutex.md)
 
-  * [2.3 并发线程数限制](2.thread_sync/3.semaphore_semaphoreSlim.md)
+  * [2.3 并发线程数限制](2.thread_sync/3.semaphore_semaphoreslim.md)
 
   * [2.4 自动线程通知](2.thread_sync/4.autorestevent.md)
 
